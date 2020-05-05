@@ -1,68 +1,32 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# :crown: Supremacia :crown:
+:sparkles: Projeto completamente baseado no jogo [Reigns](https://reignsgame.com/reigns/) :sparkles:
 
-## Available Scripts
+GIF do projeto
+![Tela](https://github.com/Enyalgs/supremacia/blob/master/src/assets/images/git/Supremacia.gif)
+05 de Maio de 2020  
+  
+Captura da Tela do Projeto - Início
+![Captura de Tela - 1](https://github.com/Enyalgs/supremacia/blob/master/src/assets/images/git/Captura%20de%20tela%20de%202020-05-05%2002-20-14.png)  
+05 de Maio de 2020  
+  
+Captura da Tela do Projeto - Meio
+![Captura de Tela - 2](https://github.com/Enyalgs/supremacia/blob/master/src/assets/images/git/Captura%20de%20tela%20de%202020-05-05%2002-20-34.png)
+05 de Maio de 2020  
 
-In the project directory, you can run:
+## :rocket: Sobre o projeto
+Supremacia tem o objetivo de se tornar um projeto baseado 100% no jogo [Reigns](https://reignsgame.com/reigns/) porém mais simples e feito completamente em ReactJS.  
+Esse projeto não visa nenhum tipo de lucro, apenas foca em crescimento pessoal e profissional.  
 
-### `yarn start`
+## :computer: Como instalar
+1. Considerando que você já tem instalado em sua maquina o NPM e o Yarn. Primeiro faça o clone ou faça o download deste mesmo
+repositório que estamos.
+2. Logo após ter clonado ou feito o download, dentro da pasta realize o seguinte comando para executar o aplicativo: yarn start.
+3. Ele abrirá automaticamente em uma janela do seu navegador principal.  
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## :memo: A Fazer
+- [x] Parte visual (Front-end)
+- [x] Adicionar algumas opções (10 atualemente)
+- [x] Alterar jogo de acordo com a escolha
+- [ ] Analisar derroto no game
+- [ ] Parte visual da página de derrotar
+- [ ] Jogar novamente 
